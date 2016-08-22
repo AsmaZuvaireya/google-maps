@@ -1,0 +1,66 @@
+.row [class^="col-md-*"] {
+	
+}
+.container{
+	width: 80%;
+}
+
+.heading{
+	text-align: center;
+    margin: 28px;
+    color: rgb(223,102,83);
+    font-weight: normal;
+    font-size: large;
+}
+body{
+	background-color: #FBFBFB;
+	margin:50px;
+	
+}
+
+p{
+	padding-right: 6px;
+}
+.icon_style{
+	margin-right: 10px;
+}
+input{
+	width: 100%;
+	margin:10px 0px;
+	padding: 4px 8px;
+	border-radius: 4px;
+}
+button{
+	border-radius: 4px;
+	color: white;
+	margin:10px 0px;
+	background-color: rgb(223,102,83);
+}
+
+.comments{
+	width: 100%;
+	margin:10px 0px;
+	padding: 4px 8px;
+	border-radius: 4px;
+}
+.row_style{
+	padding: 0px 40px;
+
+	border: 1px solid black;
+	border-radius: 8px;
+}
+.address{
+	    padding: 20px;
+}
+.form{
+	    padding: 20px;
+}
+.img_size{
+	margin:30px 0px;
+	height: 231px;
+    width: 338px;
+}
+.sub_heading{
+	font-size: 15px;
+    font-weight: bold;
+}
